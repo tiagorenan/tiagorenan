@@ -46,7 +46,7 @@
 <h3 align="center"> 📫 Connect with Me</h3>
 
 <p align="center">
-    <a href="www.linkedin.com/in/tiago-renan-fullstack" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" padding="10" /></a>
+    <a href="https://www.linkedin.com/in/tiago-renan-fullstack/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" padding="10" /></a>
     <a href="mailto:tiagorenan.ec@gmail.com" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/4adfcd9a-ea62-455e-8b24-ec78386b25f6" width="40" height="200" alt="Image" /></a>
 </p>
 
