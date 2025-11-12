@@ -4,7 +4,7 @@
     <h3>💡 About Me</h3>
 </div>
 
-<img align="right" width="250" alt="Foto de Perfil Profissional" src="https://github.com/user-attachments/assets/4b745cf6-f47a-477b-9972-74f4a2d4ee42" style="margin-left: 20px;">
+<img align="right" width="150" alt="Foto de Perfil Profissional" src="https://github.com/user-attachments/assets/4b745cf6-f47a-477b-9972-74f4a2d4ee42" style="margin-left: 20px;">
 
 <p>I am a <Strong>Computer Engineering student</Strong> at <Strong>UFPE</Strong> and also pursuing a degree in <Strong>Systems Analysis and Development</Strong> at <Strong>UNIT</Strong>. I have a strong passion for the creative and visual stages of system building, and lately, I've developed a keen interest in <Strong>Exploratory Data Analysis</Strong> and <Strong>Artificial Intelligence (AI)</Strong>.</p>
 
