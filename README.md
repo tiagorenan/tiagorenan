@@ -46,10 +46,14 @@
 <h3 align="center"> 📫 Connect with Me</h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/tiago-renan-fullstack/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" padding="10" /></a>
-    <a href="mailto:tiagorenan.ec@gmail.com" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/4adfcd9a-ea62-455e-8b24-ec78386b25f6" width="40" height="200" alt="Image" /></a>
+    <a href="https://www.linkedin.com/in/tiago-renan-fullstack/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>    
+    &nbsp;&nbsp;&nbsp; <a href="mailto:tiagorenan.ec@gmail.com" target="_blank">
+        <img src="https://github.com/user-attachments/assets/4adfcd9a-ea62-455e-8b24-ec78386b25f6" alt="Email" width="30" height="30" />
+    </a>
 </p>
 
+<p> I'd love to exchange ideas about systems development, data analysis, or internship opportunities!</p>
 
-I'd love to exchange ideas about systems development, data analysis, or internship opportunities!
 ---
