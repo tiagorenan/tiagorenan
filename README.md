@@ -56,4 +56,6 @@
 
 <p> I'd love to exchange ideas about systems development, data analysis, or internship opportunities!</p>
 
+*Email:* [tiagorenan.ec@gmail.com](mailto:tiagorenan.ec@gmail.com)
+
 ---
